@@ -6,8 +6,8 @@ var myPet = {
     friends: ["Rex", "Bella"]
 }
 
-function myFunction(obj) {
-    return obj;
+function myFunction(myObj) {
+    return myObj;
 }
 // Only change code above this line
 
